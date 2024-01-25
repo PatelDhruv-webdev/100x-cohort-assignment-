@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # 100x-cohort-assignment-
 # 100x-cohort-assignment-
 # 100x-cohort-assignment-
+# 100x-cohort-assignment-
